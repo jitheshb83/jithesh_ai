@@ -1,0 +1,24 @@
+{
+  "name": "skill-delivery-workflow",
+  "description": "Professional end-to-end skill delivery workflow with specialist agents for planning, implementation, validation, and review",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jithesh Bharathan",
+    "email": "jithesh@jithonline.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "workflow",
+    "agents",
+    "planning",
+    "implementation",
+    "validation",
+    "review",
+    "delivery",
+    "architecture",
+    "quality-gate"
+  ],
+  "agents": "agents/",
+  "skills": "skills/",
+  "homepage": "https://github.com/jitheshb83/jithesh_ai"
+}
